@@ -1,0 +1,3 @@
+# lethal-company
+
+mods
